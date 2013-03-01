@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 公用 -->
+    <color name="common_app_bg">#f7f7f7</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dialog_ok_color">#FFFFFF</color>
+    <color name="dialog_cancle_color">#898989</color>
+    <color name="dialog_text_color">#444444</color>
+    <color name="half_transparent">#88000000</color>
+    <color name="pop_slelector_text">#050505</color>
+    <color name="common_cache_hint_color">#00000000</color>
+    <!-- 首页界面 -->
+    <color name="homepage_list_item_text_color">#55000000</color>
+    <color name="homepage_bg_color">#F8F8F8</color>
+    <color name="homepage_name_color">#444444</color>
+    <!-- 广场界面 -->
+    <color name="square_left_select_text_color">#45403f</color>
+    <color name="square_right_item_text_color">#444444</color>
+    <color name="square_search_key_text_color">#b3b3b3</color>
+    <color name="square_right_bg_color">#F5F5F5</color>
+    <!-- 大图界面 -->
+    <color name="enlarge_loading_image_text_color">#5c788d</color>
+    <color name="enlarge_publiced_text_color">#8b8b8b</color>
+    <color name="enlarge_comment_time_text_color">#8b8b8b</color>
+    <color name="comment_user_name_text_color">#259fd2</color>
+    <color name="enlarge_title_color">#202020</color>
+    <color name="enlarge_voice_time_color">#259fd2</color>
+    <color name="enlarge_hottest_color">#09acd6</color>
+    <color name="enlarge_favorite_bf">#FCFCFC</color>
+    <color name="enlarge_touch_say">#202020</color>
+    <color name="enlarge_add_one">#ff0000</color>
+    <color name="enlarge_share_text">#444444</color>
+    <!-- 应用推荐 -->
+    <color name="app_recommend_title_text_color">#0b0b0b</color>
+    <color name="app_recommend_description_text_color">#444444</color>
+    <color name="tv_words">#444444</color>
+    <color name="clead_sdcard_text">#111111</color>
+    <color name="footbar_text_n">#444444</color>
+    <color name="footbar_text_f">#999999</color>
+    <!-- 登陆界面 -->
+    <color name="login_cancel_text_color">#898989</color>
+    <color name="login_title_color">#414141</color>
+    <color name="login_tip_color">#b3b3b3</color>
+    <color name="login_checkbox_text_color">#404040</color>
+    <!-- 设置界面 -->
+    <color name="setting_user_name_text_color">#444444</color>
+    <color name="setting_logout_weibo_text_color">#8b8b8b</color>
+    <color name="setting_cache_text_color">#559bbb</color>
+    <color name="setting_check_image_quality_text_color">#202020</color>
+    <color name="setting_check_image_quality_bg">#88000000</color>
+    <!-- 关于界面 -->
+    <color name="about_text_color">#a7a7a7</color>
+    <color name="about_text_qq_color">#B0B0B0</color>
+    <color name="about_copyright_text_color">#559BBB</color>
+    <!-- 反馈界面 -->
+    <color name="feedback_content_text_color">#444444</color>
+    <!-- 软件更新dialog -->
+    <color name="update_dialog_title_color">#ffffff</color>
+    <color name="update_dialog_parting_view_color">#cccccc</color>
+    <color name="update_dialog_content_text_color">#ffffff</color>
+    <!-- 本地图片 -->
+    <color name="local_pic_bg">#f7f7f7f7</color>
+    <color name="local_pic_list_bg">#f3f3f3</color>
+    <color name="local_pic_selected_num_text">#444444</color>
+    <!-- 图片编辑 -->
+    <color name="edit_pic_share_text">#444444</color>
+    <color name="edit_pic_delete_audio">#444444</color>
+    <color name="edit_pic_audio_time">#259fd2</color>
+    <!-- 选择媒体pop -->
+    <color name="pop_select_media_text_color">#050505</color>
+    <color name="pop_select_media_cancel_text_color">#8b8b8b</color>
+    <!-- 我的图吧 -->
+    <color name="my_tuba_progress_text_color">#444444</color>
+    <color name="my_tuba_cancel_text_color">#8b8b8b</color>
+    <color name="my_tuba_style_title_text_color">#889093</color>
+
+</resources>
