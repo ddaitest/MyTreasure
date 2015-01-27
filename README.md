@@ -1,27 +1,9 @@
-MyTreasure
-==========
-A tools lib for Android.
+### 公共参数
 
-==========
-com.ddai.lib.threadpool 
-  My customed thread pool. 
-  Add features:
-    1 Priority.
-    2 Batch managment.
-    3 Handle for repeat Task.
-    
-==========
-com.ddai.lib.reflectiondb
-  store and get record by reflect.
-  
-==========
-com.ddai.lib.slientinstall
-  need root.
-  
-==========
-com.ddai.lib.ui.hlist
-  HorizontalListView.
-  
-  
-==========
-Lots of 切糕
+|参数名称|数据类型|说明|
+|--------|--------|--------|
+|method|string|Protocol's method|
+|token|string|签名校验|
+|app_key|string|app应用代码|
+
+
