@@ -7,3 +7,9 @@
 |app_key|string|app应用代码|
 
 
+```mermaid
+sequenceDiagram
+App-->Stick: connect
+Stick->>App: Stick_14 (Query)
+App->>Stick: App_14 (Ack)
+```
